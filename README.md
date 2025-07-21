@@ -14,10 +14,10 @@ This project presents an interactive Power BI dashboard built using the Adventur
 
 ## Data Insights Uncovered
 
-- 📈 Sales performance trends over different fiscal years
-- 🌍 Regional contribution to overall revenue
-- 🎯 Top-performing product categories and salespeople
-- 🧭 Customer segments driving the most profit
+- Sales performance trends over different fiscal years
+- Regional contribution to overall revenue
+- Top-performing product categories and salespeople
+- Customer segments driving the most profit
 
 ## Tools & Technologies Used
 
